@@ -6,3 +6,9 @@ Curso INEMA.CLUB (formato v6.2, iniciante, 5 módulos, 6 aulas de ~15 min) para 
 
 - Currículo: [`context/curriculo.md`](context/curriculo.md)
 - Aulas (fonte): `aulas/aula-N.html` → `curso.html` é montado por `montar-curso.py` (skill formato-curso-v6).
+
+## Mais no INEMA.CLUB
+
+- [Ficha deste curso](https://www.inema.club/cursos/302-agente-sob-controle-v6-2-use-agentes-de-ia-sem-se-queimar/)
+- [Guia: como aprender inteligência artificial](https://www.inema.club/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.inema.club/cursos/)
