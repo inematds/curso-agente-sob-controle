@@ -1,0 +1,19 @@
+{
+  "id": "agsc62",
+  "titulo": "Agente sob controle v6.2 — Use agentes de IA sem se queimar",
+  "titulo_html": "Agente de IA, mas <em>sob controle</em>",
+  "curso_curto": "Agente sob controle v6.2",
+  "kicker": "Agente sob controle v6.2 · 5 módulos · aulas de uns 15 minutos",
+  "lead": "Escolha o problema certo, decida o que o agente pode tocar, feche as portas que quase ninguém vê e meça se deu certo. Você sai com a ficha do agente pronta para o seu negócio.",
+  "imagem_trilha": "assets/img/trilha.webp",
+  "alt_trilha": "A dona de uma clínica e um contador revisam juntos uma lista impressa, com uma caneta, ao lado de um notebook aberto.",
+  "rodape": "Agente sob controle v6.2 · INEMA.CLUB · <a href=\"landing.html\">sobre o curso</a>",
+  "landing": "landing.html",
+  "modulos": [
+    { "titulo": "Módulo 1 · Por que agora", "resumo": "O assistente que responde virou agente que age.", "aulas": [1] },
+    { "titulo": "Módulo 2 · Achar a dor", "resumo": "Automatizar o que realmente custa dinheiro.", "aulas": [2] },
+    { "titulo": "Módulo 3 · Controlar o sistema", "resumo": "O que ele lê, muda, envia e quem desliga.", "aulas": [3] },
+    { "titulo": "Módulo 4 · O que quase ninguém conta", "resumo": "Ordens escondidas, senhas, extensões, gasto e dados de clientes.", "aulas": [4, 5] },
+    { "titulo": "Módulo 5 · Assumir o resultado", "resumo": "Métrica, dono e a ficha do agente completa.", "aulas": [6] }
+  ]
+}
